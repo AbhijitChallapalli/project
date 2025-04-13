@@ -1,5 +1,3 @@
-Website is accessible at : https://sortingalgorithms.streamlit.app/
-
 # Sorting Algorithms Runtime Comparison (Streamlit App)
 
 This project presents the implementation and performance comparison of classic sorting algorithms using a visual and interactive Streamlit interface. Users can experiment with different array sizes and input types to analyze how each algorithm performs under various conditions.
@@ -40,9 +38,29 @@ Try it live:
 ## Setup Instructions
 
 ### Clone the Repository
+Windows:
 ```python -m venv venv
-venv\\Scripts\\activate
+venv\Scripts\activate
 ```
+
+```python3 -m venv venv
+source venv/bin/activate
+```
+
+### Install Dependencies
+```pip install -r requirements.txt
+````
+
+## Author
+Srinivasa Sai Abhijit Challapalli
+sxc9486@mavs.uta.edu
+University of Texas at Arlington — CSE 5311: Design & Analysis of Algorithms
+Instructor: Dr.Negin Fraidouni
+
+
+
+
+
 
 
 
