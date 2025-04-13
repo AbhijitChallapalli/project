@@ -32,7 +32,9 @@ Try it live:
 [Streamlit App](https://sorting-app.streamlit.app)
 
 ## Repository Structure
-├── sorting.py # Main Streamlit application ├── requirements.txt # Required Python libraries ├── README.md # Project documentation
+├── sorting.py # Main Streamlit application 
+├── requirements.txt # Required Python libraries 
+├── README.md # Project documentation
 
 
 ## Setup Instructions
